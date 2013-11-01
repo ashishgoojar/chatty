@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chatty
 ## Adding Real-Time To Rails With Socket.IO, Node.js and Backbone.js
 
@@ -14,3 +15,7 @@ Node Server: https://github.com/liamks/Chatty-Node-Server
 The basic Backbone rails integration template comes from another project: 
 
 https://github.com/liamks/Backbone-On-Rails
+=======
+chatty
+======
+>>>>>>> 34d389a25651f0d1b13a7a5eec233b7629535c38
